@@ -6,5 +6,5 @@ A little implementation of chats using socket.io and node.js.
 
 mindmap of how socket works
 
-![Uploading mindmap.PNG…](mindmap.png)
+![Uploading mindmap.PNG…](mindmap.PNG)
 
